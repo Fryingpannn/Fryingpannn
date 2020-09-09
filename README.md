@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+A computer science student from Canada. I aspire to deepen my understanding in all areas of technology & product development.
+
+🔭 I'm currently working on a C++ game project based off the strategy game Risk.
+
+🌱 I'm currently learning and improving my data structure and algorithms.
+
+📫 Reach me by email or LinkedIn! https://www.linkedin.com/in/matthewdukepan/ | matthewdukepan@gmail.com
+
 <!--
 **Fryingpannn/Fryingpannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
