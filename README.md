@@ -6,7 +6,7 @@ I'm a computer science student from Canada and I aspire to deepen my understandi
 
 🌱 I'm currently learning and improving my data structure and algorithms.
 
-📫 Reach me by email or LinkedIn! https://www.linkedin.com/in/matthewdukepan/ | matthewdukepan@gmail.com
+📫 Reach me by email or LinkedIn! www.linkedin.com/in/matthewdukepan/ | matthewdukepan@gmail.com
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fryingpannn&layout=compact&hide=tex)](https://github.com/anuraghazra/github-readme-stats)-->
 
