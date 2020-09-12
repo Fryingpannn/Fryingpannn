@@ -8,7 +8,7 @@ I'm a computer science student from Canada and I aspire to deepen my understandi
 
 📫 Reach me by email or LinkedIn! matthewdukepan@gmail.com | www.linkedin.com/in/matthewdukepan
 
-💬 Visit my website: https://matthewpancv.web.app/
+💬 Visit my website: https://matthewpancv.web.app
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fryingpannn&layout=compact&hide=tex)](https://github.com/anuraghazra/github-readme-stats)-->
 
