@@ -6,7 +6,7 @@ I'm a computer science student from Canada and I aspire to deepen my understandi
 
 🌱 I'm currently aiming to improve my web development skills by learning frameworks such as ReactJS/Angular, and building RESTful APIs with Java and C#.
 
-📫 Reach me by email or LinkedIn! www.linkedin.com/in/matthewdukepan/ | matthewdukepan@gmail.com
+📫 Reach me by email or LinkedIn! matthewdukepan@gmail.com | www.linkedin.com/in/matthewdukepan
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fryingpannn&layout=compact&hide=tex)](https://github.com/anuraghazra/github-readme-stats)-->
 
