@@ -4,7 +4,7 @@ I'm a computer science student from Canada and I aspire to deepen my understandi
 
 🔭 I'm currently working on a C++ game project based off the strategy game Risk.
 
-🌱 I'm currently learning and improving my data structure and algorithms.
+🌱 I'm currently aiming to improve my web development skills by learning frameworks such as ReactJS/Angular, and building RESTful APIs with Java or C#.
 
 📫 Reach me by email or LinkedIn! www.linkedin.com/in/matthewdukepan/ | matthewdukepan@gmail.com
 
