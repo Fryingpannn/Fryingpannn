@@ -2,9 +2,9 @@
 
 I'm a computer science student from Canada and I aspire to deepen my understanding in various areas of technology & product development.
 
-🔭 I'm currently working on a C++ game project based off the strategy game Risk.
+🔭 I'm currently working on a C++ game project based off the strategy game Risk (almost finished).
 
-🌱 I'm currently improving my web development skills by using frameworks such as ReactJS/Angular, and building RESTful APIs with Java/Python.
+🌱 Next project: stock sentiment analyzer!
 
 📫 Reach me by email or LinkedIn! matthewdukepan@gmail.com | www.linkedin.com/in/matthewdukepan
 
