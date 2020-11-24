@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a computer science student from Canada and I aspire to deepen my understanding in the various areas of technology & product development.
+I'm a computer science student from Canada and I aspire to deepen my understanding in various areas of technology & product development.
 
 🔭 I'm currently working on a C++ game project based off the strategy game Risk (almost finished).
 
