@@ -4,7 +4,7 @@ I'm a computer science student from Canada and I aspire to deepen my understandi
 
 🔭 I'm currently working on a C++ game project based off the strategy game Risk (almost finished).
 
-🌱 Next project: stock sentiment analyzer for a famous subreddit you might know of... r/WSB.
+🌱 Next project: stock sentiment analyzer for an infamous subreddit you might know of... r/WSB.
 
 📫 Reach me by email or LinkedIn! matthewdukepan@gmail.com | www.linkedin.com/in/matthewdukepan
 
