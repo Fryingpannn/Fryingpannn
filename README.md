@@ -2,13 +2,11 @@
 
 I'm a computer science student from Canada and I aspire to deepen my understanding in various areas of technology & product development.
 
-🔭 I'm currently working on a C++ game project based off the strategy game Risk (almost finished).
+🔭 Next project: Stock sentiment analyzer (ReactJS + Python/Django).
 
-🌱 Next project: stock sentiment analyzer for an infamous subreddit you might know of... r/WSB.
+💬 Reach me by email or LinkedIn! matthewdukepan@gmail.com | www.linkedin.com/in/matthewdukepan
 
-📫 Reach me by email or LinkedIn! matthewdukepan@gmail.com | www.linkedin.com/in/matthewdukepan
-
-💬 Visit my website: https://matthewpancv.web.app
+📫 Visit my website: https://matthewpancv.web.app
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fryingpannn&layout=compact&hide=tex)](https://github.com/anuraghazra/github-readme-stats)-->
 
