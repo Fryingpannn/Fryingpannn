@@ -2,7 +2,7 @@
 
 I'm a computer science student from Canada and I aim to deepen my understanding in various areas of technology & product development.
 
-🔭 Next project: Stock sentiment analyzer (ReactJS + Python/Django).
+🔭 Current project: Stock sentiment analyzer (evaluate reddit due diligences' accuracy) (ReactJS + Python/Django).
 
 💬 Reach me by email or LinkedIn! matthewdukepan@gmail.com | www.linkedin.com/in/matthewdukepan
 
