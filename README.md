@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a computer science student from Canada and I aspire to deepen my understanding in various areas of technology & product development.
+I'm a computer science student from Canada and I aim to deepen my understanding in various areas of technology & product development.
 
 🔭 Next project: Stock sentiment analyzer (ReactJS + Python/Django).
 
