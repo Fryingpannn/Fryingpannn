@@ -2,7 +2,9 @@
 
 I'm a computer science student from Canada and I aim to deepen my understanding in various areas of technology & product development.
 
-🔭 Current project: Stock sentiment analyzer (evaluate reddit due diligences' accuracy) (ReactJS + Python/Django).
+🌱 Work: I'm currently a software developer intern at Genetec working on full stack development on Azure in a microservice architecture. I'm also a teaching assistant at my university for the course Object-Oriented Programming II (Java).
+
+🔭 Current personal project: Stock sentiment analyzer (evaluate/predict reddit due diligences' accuracy) (ReactJS + Python/Django + PySpark).
 
 💬 Reach me by email or LinkedIn! matthewdukepan@gmail.com | www.linkedin.com/in/matthewdukepan
 
