@@ -6,7 +6,7 @@ My name is Matthew and I'm a computer science student from Canada. Here's some i
 - I'm currently a software developer intern at Genetec working on full stack development on Azure in a microservice architecture. I'm also a teaching assistant at my university for the course Object-Oriented Programming II (Java).
 
 🔭 Current personal project: 
-- Stock DD analysis and filtering (r/WallStreetBets) (ReactJS + Python/Django + PySpark + scitkit-learn).
+- Financial stocks' DD analysis and filtering (r/WallStreetBets) (ReactJS + Python/Django + PySpark + scitkit-learn).
 
 💬 Reach me by email or LinkedIn! matthewdukepan@gmail.com | www.linkedin.com/in/matthewdukepan
 
