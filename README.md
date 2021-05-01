@@ -3,7 +3,8 @@
 My name is Matthew and I'm a computer science student from Canada. Here's some info about me!
 
 🌱 Work: <br>
-- I'm currently a software developer intern at Genetec working in full stack development on Azure in a microservice architecture. I'm also a teaching assistant at my university for the course Object-Oriented Programming II (Java).
+- Montreal, Quebec. Spring 2021: Software Developer intern at Genetec - Full stack development on Azure in a microservice architecture codebase + Teaching Assistant at my university for the course Object-Oriented Programming II (Java).
+- San Jose, California. Summer 2021: Software Engineer intern at Cisco Systems, inc.
 
 🔭 Current project: 
 - Financial stocks' DD analysis and filtering (r/WallStreetBets) (ReactJS + Python/Django + PySpark + scitkit-learn).
