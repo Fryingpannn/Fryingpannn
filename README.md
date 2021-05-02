@@ -11,9 +11,9 @@ My name is Matthew and I'm a computer science student from Canada. Here's some i
 - Financial stocks' DD analysis and classification (r/WallStreetBets) (ReactJS + Python/Django + PySpark + scitkit-learn).
 
 🌱 Interests:
-- Web development
-- Data analytics (AI/ML)
-- YouTube/Twitch
+- Web development.
+- Data analytics (AI/ML).
+- YouTube/Twitch.
 
 💬 Reach me by email or LinkedIn! matthewdukepan@gmail.com | www.linkedin.com/in/matthewdukepan
 
