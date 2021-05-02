@@ -2,13 +2,18 @@
 
 My name is Matthew and I'm a computer science student from Canada. Here's some info about me!
 
-🌱 Work experience: <br>
-- Software Engineer intern at Cisco Systems. (San Jose, California. Summer 2021)
-- Software Developer intern at Genetec - Full stack development on Azure in a microservice architecture codebase. (Montreal, Quebec. Spring 2021)
-- Teaching Assistant at Concordia University for the course Object-Oriented Programming II (Java). (Montreal, Quebec. Spring 2021) 
+⚡ Work experience: <br>
+- Software Engineer intern at Cisco Systems. [San Jose, California. Summer 2021]
+- Software Developer intern at Genetec - Full stack development on Azure in a microservice architecture codebase. [Montreal, Quebec. Spring 2021]
+- Teaching Assistant at Concordia University for the course Object-Oriented Programming II (Java). [Montreal, Quebec. Spring 2021]
 
 🔭 Current project: 
 - Financial stocks' DD analysis and classification (r/WallStreetBets) (ReactJS + Python/Django + PySpark + scitkit-learn).
+
+🌱 Interests:
+- Web development
+- Data analytics (AI/ML)
+- YouTube/Twitch
 
 💬 Reach me by email or LinkedIn! matthewdukepan@gmail.com | www.linkedin.com/in/matthewdukepan
 
