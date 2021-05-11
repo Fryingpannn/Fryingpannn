@@ -8,7 +8,7 @@ My name is Matthew and I'm a computer science student from Canada. Here's some i
 - Teaching Assistant at Concordia University for the course Object-Oriented Programming II (Java). [Montreal, Quebec. Spring 2021]
 
 🔭 Current project: 
-- Financial stocks' DD analysis and classification (r/WallStreetBets) (ReactJS + Python/Django + PySpark + scitkit-learn).
+- Financial stocks DD analysis and classification (r/WallStreetBets) (ReactJS + Python/Django + PySpark + scitkit-learn).
 
 🌱 Interests:
 - Web development.
