@@ -3,8 +3,9 @@
 My name is Matthew and I'm a computer science student from Canada. Here's some info about me!
 
 ⚡ Work experience: <br>
-- Software Engineer intern at Cisco Systems. [San Jose, California. Summer 2021]
-- Software Developer intern at Genetec - Full stack development on Azure in a microservice architecture codebase. [Montreal, Quebec. Spring 2021]
+- Incoming Software Engineer intern at Coinbase [Remote. Winter 2021]
+- Software Engineer intern at Cisco Systems - Front-end development in an Angular monorepo. [San Jose, California. Summer 2021]
+- Software Developer intern at Genetec - Full stack development on Azure in microservices. [Montreal, Quebec. Spring 2021]
 - Teaching Assistant at Concordia University for the course Object-Oriented Programming II (Java). [Montreal, Quebec. Spring 2021]
 
 🔭 Current project: 
