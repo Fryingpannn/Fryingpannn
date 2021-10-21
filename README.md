@@ -13,8 +13,7 @@ My name is Matthew and I'm a computer science student from Canada. Here's some i
 
 🌱 Interests:
 - Web development.
-- Data analytics (AI/ML).
-- YouTube/Twitch.
+- Creating content (YouTube/Twitch).
 
 💬 Reach me by email or LinkedIn! matthewdukepan@gmail.com | www.linkedin.com/in/matthewdukepan
 
