@@ -4,7 +4,7 @@ My name is Matthew and I'm a computer science student from Canada. Here's some i
 
 ⚡ Work experience: <br>
 - Incoming Software Engineer intern at Facebook/Meta [New York. Summer 2022]
-- Incoming Software Engineer intern at Coinbase [Remote. Winter 2021]
+- Incoming Software Engineer intern at Coinbase [Remote. Winter 2022]
 - Software Engineer intern at Cisco Systems - Front-end development in an Angular monorepo. [San Jose, California. Summer 2021]
 - Software Developer intern at Genetec - Full stack development on Azure in microservices. [Montreal, Quebec. Spring 2021]
 - Teaching Assistant at Concordia University for the course Object-Oriented Programming II (Java). [Montreal, Quebec. Spring 2021]
