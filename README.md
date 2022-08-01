@@ -3,14 +3,11 @@
 My name is Matthew and I'm a computer science student from Canada. Here's some info about me!
 
 ⚡ Work experience: <br>
-- Incoming Software Engineer intern at Facebook/Meta [New York. Summer 2022]
-- Incoming Software Engineer intern at Coinbase [Remote. Winter 2022]
-- Software Engineer intern at Cisco Systems - Front-end development in an Angular monorepo. [San Jose, California. Summer 2021]
-- Software Developer intern at Genetec - Full stack development on Azure in microservices. [Montreal, Quebec. Spring 2021]
-- Teaching Assistant at Concordia University for the course Object-Oriented Programming II (Java). [Montreal, Quebec. Spring 2021]
-
-🔭 Current project: 
-- Financial stocks DD analysis and classification (r/WallStreetBets) (ReactJS + Python/Django + PySpark + scitkit-learn).
+- **Software Engineer intern at Meta (formerly Facebook)** - Full-stack development on the Release Engineering team. [New York. Summer 2022]
+- **Software Engineer intern at Coinbase** - Full-stack development on the BlocSecurity Platform team. [Remote. Winter 2022]
+- **Software Engineer intern at Cisco Systems** - Front-end development on the Customer Experience team. [San Jose, California. Summer 2021]
+- **Software Developer intern at Genetec** - Full-stack development on the Clearance team. [Montreal, Quebec. Spring 2021]
+- **Teaching Assistant at Concordia University** - Object-Oriented Programming II (Java). [Montreal, Quebec. Spring 2021]
 
 🌱 Interests:
 - Web development.
