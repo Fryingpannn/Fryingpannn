@@ -15,7 +15,7 @@ My name is Matthew and I'm a computer science student from Canada. Here's some i
 
 💬 Reach me by email or LinkedIn! matthewdukepan@gmail.com | www.linkedin.com/in/matthewdukepan
 
-📫 Visit my website: https://matthewpancv.web.app
+📫 Visit my website that is severely outdated: https://matthewpancv.web.app
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fryingpannn&layout=compact&hide=tex)](https://github.com/anuraghazra/github-readme-stats)-->
 
