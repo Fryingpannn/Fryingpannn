@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-My name is Matthew and I'm a computer science student from Canada. Here's some info about me!
+I'm Pan and I'm a computer science student from Canada. Here's some info about me!
 
 ⚡ Work experience: <br>
+- **Full-time SWE** at 2 big tech companies that I haven't made public about yet, one day:) [2023-2024]
 - **Software Engineer intern at Meta (formerly Facebook)** - Full-stack development on the Release Engineering team. [New York. Summer 2022]
 - **Software Engineer intern at Coinbase** - Full-stack development on the BlocSecurity Platform team. [Remote. Winter 2022]
 - **Software Engineer intern at Cisco Systems** - Front-end development on the Customer Experience team. [San Jose, California. Summer 2021]
@@ -10,12 +11,8 @@ My name is Matthew and I'm a computer science student from Canada. Here's some i
 - **Teaching Assistant at Concordia University** - Object-Oriented Programming II (Java). [Montreal, Quebec. Spring 2021]
 
 🌱 Interests:
-- Web development.
+- Building products.
 - Creating content (YouTube/Twitch).
-
-💬 Reach me by email or LinkedIn! matthewdukepan@gmail.com | www.linkedin.com/in/matthewdukepan
-
-📫 Visit my website that is severely outdated: https://matthewpancv.web.app
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fryingpannn&layout=compact&hide=tex)](https://github.com/anuraghazra/github-readme-stats)-->
 
