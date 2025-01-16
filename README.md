@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm Pan and I'm a computer science student from Canada. Here's some info about me!
-
 ⚡ Work experience: <br>
 - **Software Engineer** at PearAI.
 - **Software Engineer** at Coinbase.
