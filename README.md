@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 ⚡ Work experience: <br>
-- **Software Engineer** at PearAI.
-- **Software Engineer** at Coinbase.
-- **Software Engineer** at Tesla Autopilot.
-- **Software Engineer intern at Meta** - Full-stack development on the Release Engineering team. 
-- **Software Engineer intern at Coinbase** - Full-stack development on the BlocSecurity Platform team. 
-- **Software Engineer intern at Cisco Systems** - Front-end development on the Customer Experience team.
-- **Software Developer intern at Genetec** - Full-stack development on the Clearance team. 
-- **Teaching Assistant at Concordia University** - Object-Oriented Programming II (Java).
+- Software Engineer and Cofounder at PearAI.
+- Software Engineer at Coinbase.
+- Software Engineer at Tesla Autopilot.
+- Software Engineer intern at Meta
+- Software Engineer intern at Coinbase
+- Software Engineer intern at Cisco Systems
+- Software Developer intern at Genetec
+- CS Teaching Assistant at Concordia University
 
 🌱 Interests:
 - Building products.
